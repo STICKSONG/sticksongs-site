@@ -1,32 +1,102 @@
 [
   {
-    "id": "sample-headphones",
-    "name": "Wireless Headphones",
-    "category": "Tech",
-    "description": "A sample product card. Replace this with your chosen product and short description.",
-    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1000&q=85",
-    "amazonUrl": "",
+    "id": "insulated-tumbler",
+    "name": "Insulated Travel Tumbler",
+    "category": "Home",
+    "description": "A reusable insulated tumbler for commuting, work, and everyday hydration.",
+    "image": "https://images.unsplash.com/photo-1517701604599-bb29b565090c?auto=format&fit=crop&w=1000&q=85",
+    "amazonUrl": "https://www.amazon.com/s?k=insulated+travel+tumbler",
     "price": "",
-    "tag": "Audio"
+    "tag": "Everyday"
   },
   {
-    "id": "sample-desk-lamp",
-    "name": "Minimal Desk Lamp",
-    "category": "Home",
-    "description": "A simple upgrade for your desk or cozy corner at home.",
-    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1000&q=85",
-    "amazonUrl": "",
+    "id": "usb-c-charger",
+    "name": "USB-C Fast Wall Charger",
+    "category": "Tech",
+    "description": "A compact charging accessory for compatible phones, tablets, and other USB-C devices.",
+    "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=1000&q=85",
+    "amazonUrl": "https://www.amazon.com/s?k=USB-C+fast+wall+charger",
+    "price": "",
+    "tag": "Tech"
+  },
+  {
+    "id": "surge-protector",
+    "name": "Surge Protector Power Strip",
+    "category": "Tech",
+    "description": "Extra outlets for a home office, entertainment setup, or charging station.",
+    "image": "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=1000&q=85",
+    "amazonUrl": "https://www.amazon.com/s?k=surge+protector+power+strip",
     "price": "",
     "tag": "Workspace"
   },
   {
-    "id": "sample-speaker",
+    "id": "gaming-headset",
+    "name": "Gaming Headset",
+    "category": "Gaming",
+    "description": "A headset option for gaming, voice chat, and everyday computer use.",
+    "image": "https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=1000&q=85",
+    "amazonUrl": "https://www.amazon.com/s?k=gaming+headset",
+    "price": "",
+    "tag": "Gaming"
+  },
+  {
+    "id": "portable-bluetooth-speaker",
     "name": "Portable Bluetooth Speaker",
     "category": "Tech",
-    "description": "A sample listing to show how product cards look on the website.",
+    "description": "A portable speaker category pick for music at home or on the go.",
     "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=1000&q=85",
-    "amazonUrl": "",
+    "amazonUrl": "https://www.amazon.com/s?k=portable+bluetooth+speaker",
     "price": "",
-    "tag": "Everyday"
+    "tag": "Audio"
+  },
+  {
+    "id": "under-cabinet-lights",
+    "name": "Under-Cabinet LED Lights",
+    "category": "Home",
+    "description": "LED lighting for kitchen counters, shelves, and work areas.",
+    "image": "https://images.unsplash.com/photo-1556912172-45b7abe8b7e1?auto=format&fit=crop&w=1000&q=85",
+    "amazonUrl": "https://www.amazon.com/s?k=under+cabinet+LED+lights",
+    "price": "",
+    "tag": "Home"
+  },
+  {
+    "id": "screen-protector",
+    "name": "Smartphone Screen Protector",
+    "category": "Tech",
+    "description": "A screen-protection accessory; choose the exact model that fits your phone.",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=1000&q=85",
+    "amazonUrl": "https://www.amazon.com/s?k=smartphone+screen+protector",
+    "price": "",
+    "tag": "Mobile"
+  },
+  {
+    "id": "writing-tablet",
+    "name": "LCD Writing Tablet",
+    "category": "Everyday",
+    "description": "A reusable writing tablet for notes, reminders, and quick sketches.",
+    "image": "https://images.unsplash.com/photo-1517842645767-c639042777db?auto=format&fit=crop&w=1000&q=85",
+    "amazonUrl": "https://www.amazon.com/s?k=LCD+writing+tablet",
+    "price": "",
+    "tag": "Desk"
+  },
+  {
+    "id": "wireless-lavalier-mic",
+    "name": "Wireless Lavalier Microphone",
+    "category": "Tech",
+    "description": "A compact microphone category to explore for mobile video and creator recordings.",
+    "image": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&fit=crop&w=1000&q=85",
+    "amazonUrl": "https://www.amazon.com/s?k=wireless+lavalier+microphone",
+    "price": "",
+    "tag": "Creator"
+  },
+  {
+    "id": "desk-organizer",
+    "name": "Desk Organizer",
+    "category": "Home",
+    "description": "A simple organizer to keep a desk, study area, or home office tidy.",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1000&q=85",
+    "amazonUrl": "https://www.amazon.com/s?k=desk+organizer",
+    "price": "",
+    "tag": "Workspace"
   }
 ]
