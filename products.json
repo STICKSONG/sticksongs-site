@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sample-headphones",
+    "name": "Wireless Headphones",
+    "category": "Tech",
+    "description": "A sample product card. Replace this with your chosen product and short description.",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=1000&q=85",
+    "amazonUrl": "",
+    "price": "",
+    "tag": "Audio"
+  },
+  {
+    "id": "sample-desk-lamp",
+    "name": "Minimal Desk Lamp",
+    "category": "Home",
+    "description": "A simple upgrade for your desk or cozy corner at home.",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=1000&q=85",
+    "amazonUrl": "",
+    "price": "",
+    "tag": "Workspace"
+  },
+  {
+    "id": "sample-speaker",
+    "name": "Portable Bluetooth Speaker",
+    "category": "Tech",
+    "description": "A sample listing to show how product cards look on the website.",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=1000&q=85",
+    "amazonUrl": "",
+    "price": "",
+    "tag": "Everyday"
+  }
+]

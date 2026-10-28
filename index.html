@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b0d0f">
+  <meta name="description" content="Hand-picked finds for better everyday vibes.">
+  <title>StickSongs Finds — Good finds. Better vibes.</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="announcement"><span class="pulse"></span> HAND-PICKED FINDS • UPDATED OVER TIME</div>
+  <header class="nav wrap">
+    <a class="brand" href="#top" aria-label="StickSongs home"><span class="brand-mark">♪</span><span>StickSongs<span class="brand-light"> Finds</span></span></a>
+    <nav><a class="active" href="#top">Home</a><a href="#finds">My Finds</a><a href="#about">About</a></nav>
+    <a class="social" href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">◎</a>
+  </header>
+
+  <main id="top">
+    <section class="hero wrap">
+      <div class="hero-copy">
+        <div class="eyebrow"><span></span> THE STICKSONGS EDIT</div>
+        <h1>Good finds.<br><em>Better vibes.</em></h1>
+        <p>A hand-picked collection of useful things, clever upgrades, and everyday favorites.</p>
+        <a class="primary-btn" href="#finds">Explore the finds <span>↘</span></a>
+        <div class="hero-note"><span class="sound-bars"><i></i><i></i><i></i><i></i><i></i></span> Curated with good taste. No endless scrolling.</div>
+      </div>
+      <div class="hero-art" aria-label="Decorative StickSongs illustration">
+        <div class="moon"></div><div class="city city-back"></div><div class="city city-front"></div>
+        <div class="orbit orbit-one"></div><div class="orbit orbit-two"></div>
+        <div class="stick-figure"><div class="head"><span class="eye eye-one"></span><span class="eye eye-two"></span><span class="headphone left"></span><span class="headphone right"></span></div><div class="body"></div><div class="arm arm-left"></div><div class="arm arm-right"></div><div class="leg leg-left"></div><div class="leg leg-right"></div></div>
+        <div class="music-wave"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+        <div class="art-label">FIND YOUR<br><strong>FREQUENCY.</strong></div>
+      </div>
+    </section>
+
+    <section id="finds" class="finds wrap">
+      <div class="section-head"><div><div class="eyebrow">THE GOOD STUFF</div><h2>Featured <em>finds</em></h2></div><span class="count" id="result-count">A few things we like</span></div>
+      <div class="toolbar">
+        <div class="filters" id="filters"><button class="filter active" data-category="All">All finds</button><button class="filter" data-category="Tech">Tech</button><button class="filter" data-category="Home">Home</button><button class="filter" data-category="Everyday">Everyday</button></div>
+        <label class="search"><span>⌕</span><input id="search" type="search" placeholder="Find something…" aria-label="Search products"></label>
+      </div>
+      <div class="product-grid" id="product-grid"><div class="loading">Loading the good stuff…</div></div>
+      <p class="empty hidden" id="empty">No finds match that search. Try another word.</p>
+    </section>
+
+    <section class="about wrap" id="about"><div class="about-icon">✳</div><div><div class="eyebrow">A LITTLE ABOUT THIS PAGE</div><h2>Good things, <em>found.</em></h2><p>StickSongs Finds is a growing collection of products we think are worth a closer look. Browse, explore, and choose what works for you.</p></div><div class="about-tag">LESS NOISE.<br><strong>BETTER FINDS.</strong></div></section>
+  </main>
+
+  <footer class="footer"><div class="wrap footer-inner"><a class="brand" href="#top"><span class="brand-mark">♪</span><span>StickSongs<span class="brand-light"> Finds</span></span></a><p class="disclosure">As an Amazon Associate I earn from qualifying purchases.</p><div class="footer-links"><a href="#about">About</a><a href="#top">Back to top ↑</a></div></div><div class="wrap footer-bottom">© <span id="year"></span> StickSongs Finds <span>Made for better everyday vibes.</span></div></footer>
+  <script src="app.js"></script>
+</body>
+</html>
